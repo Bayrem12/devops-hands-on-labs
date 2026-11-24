@@ -1,0 +1,8 @@
+{
+	"mcpServers": {
+		"KodeKloud": {
+			"type": "http",
+			"url": "https://notes.kodekloud.com/mcp"
+		}
+	}
+}
